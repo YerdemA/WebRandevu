@@ -10,24 +10,24 @@ Sistem, randevu sürecindeki iletişim problemlerini, zamanlama çakışmaların
 
 ## ✨ Temel Özellikler
 
-**Rol Bazlı Erişim:** Sistemde "Hizmet Alan", "Hizmet Veren" ve "Admin" olmak üzere üç farklı kullanıcı rolü bulunmaktadır.
-**Dinamik Takvim:** Hizmet verenler kendi çalışma saatlerini ve müsait olmadıkları günleri (tatil vb.) yönetebilir.
-**Hizmet Yönetimi:** Hizmet verenler, sundukları hizmetleri, sürelerini ve fiyatlarını dinamik olarak ekleyip düzenleyebilir.
-**Akıllı Randevu Akışı:** Kullanıcı bir tarih seçtiğinde, sistem o güne ait müsait saatleri listeler. Bir saat seçildiğinde, kalan boşluğa sığabilecek hizmetler dinamik olarak gösterilir.
-**Puanlama ve Değerlendirme:** Hizmet alanlar, tamamlanan randevular sonrası hizmet verenlere 1-10 arası puan verebilir ve yorum yapabilir.
-**Güvenli Randevu Tamamlama:** Randevular, hizmet verenin müşteriden aldığı 6 haneli bir kod ile güvenli bir şekilde tamamlanır.
+* **Rol Bazlı Erişim:** Sistemde "Hizmet Alan", "Hizmet Veren" ve "Admin" olmak üzere üç farklı kullanıcı rolü bulunmaktadır.
+* **Dinamik Takvim:** Hizmet verenler kendi çalışma saatlerini ve müsait olmadıkları günleri (tatil vb.) yönetebilir.
+* **Hizmet Yönetimi:** Hizmet verenler, sundukları hizmetleri, sürelerini ve fiyatlarını dinamik olarak ekleyip düzenleyebilir.
+* **Akıllı Randevu Akışı:** Kullanıcı bir tarih seçtiğinde, sistem o güne ait müsait saatleri listeler. Bir saat seçildiğinde, kalan boşluğa sığabilecek hizmetler dinamik olarak gösterilir.
+* **Puanlama ve Değerlendirme:** Hizmet alanlar, tamamlanan randevular sonrası hizmet verenlere 1-10 arası puan verebilir ve yorum yapabilir.
+* **Güvenli Randevu Tamamlama:** Randevular, hizmet verenin müşteriden aldığı 6 haneli bir kod ile güvenli bir şekilde tamamlanır.
 
 ## 🚀 Kullanılan Teknolojiler
 
 Projenin geliştirilmesinde modern web teknolojileri kullanılmıştır:
 
-**Frontend:** React.js 
-**Backend (BaaS):** Google Firebase
-**Kimlik Doğrulama:** Firebase Authentication
-**Veritabanı:** Firestore (NoSQL Veritabanı)
-**UI (Arayüz):** Tailwind CSS
-**Durum Yönetimi (State Management):** React Context API
-**Versiyon Kontrolü:** Git & GitHub
+* **Frontend:** React.js 
+* **Backend (BaaS):** Google Firebase
+* **Kimlik Doğrulama:** Firebase Authentication
+* **Veritabanı:** Firestore (NoSQL Veritabanı)
+* **UI (Arayüz):** Tailwind CSS
+* **Durum Yönetimi (State Management):** React Context API
+* **Versiyon Kontrolü:** Git & GitHub
 
 <img width="1901" height="861" alt="Ekran görüntüsü 2025-11-11 191823" src="https://github.com/user-attachments/assets/6bf6df74-b1b3-4654-96cf-1069645468f2" />
 <img width="1901" height="869" alt="Ekran görüntüsü 2025-11-11 191757" src="https://github.com/user-attachments/assets/e226886b-51a4-4491-bf5b-f80ae96fd4e1" />
